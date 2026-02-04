@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Asteriskkkk&label=Profile%20Views&color=0e75b6&style=flat)
+
 ## Hi there 👋
 
 - 🔭 I’m currently contributing to the **Zulip** open source project 👉 [My Zulip Pull Requests](https://github.com/zulip/zulip/pulls?q=is%3Apr+author%3AAsteriskkkk)
