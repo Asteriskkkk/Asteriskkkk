@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently contributing to the **Zulip** open source project  
-  https://github.com/zulip/zulip/pulls?q=is%3Apr+author%3AAsteriskkkk
+  👉 [My Zulip Pull Requests](https://github.com/zulip/zulip/pulls?q=is%3Apr+author%3AAsteriskkkk)
 
 - 🌱 I’m currently learning **scalable backend systems** and **system design principles**
 
@@ -10,3 +10,5 @@
   - Email: amit.lpatil282006@gmail.com
 
 - 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I like reading large production codebases more than tutorials.
