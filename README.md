@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently contributing to the **Zulip** open source project 👉 [My Zulip Pull Requests]([https://github.com/zulip/zulip/pulls?q=is%3Apr+author%3AAsteriskkkk](https://github.com/zulip/zulip/pulls?q=is%3Apr+is%3Amerged+author%3AAsteriskkkk+))
-
+- 🔭 I’m currently contributing to the **Zulip** open source project 👉 [My Zulip Pull Requests](https://github.com/zulip/zulip/pulls?q=is%3Apr+is%3Amerged+author%3AAsteriskkkk+)
 - 🌱 I’m currently learning **scalable backend systems** and **system design principles**
 
 - 📫 How to reach me:  
