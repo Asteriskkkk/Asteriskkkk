@@ -10,5 +10,3 @@
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I like reading large production codebases more than tutorials.
-
-![Profile Views](https://komarev.com/ghpvc/?username=Asteriskkkk&label=Profile%20Views&color=0e75b6&style=flat)
